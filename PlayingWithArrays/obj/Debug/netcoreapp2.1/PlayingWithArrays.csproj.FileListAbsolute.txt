@@ -1,0 +1,11 @@
+C:\Users\Gulam\source\repos\PlayingWithArrays\PlayingWithArrays\bin\Debug\netcoreapp2.1\PlayingWithArrays.deps.json
+C:\Users\Gulam\source\repos\PlayingWithArrays\PlayingWithArrays\bin\Debug\netcoreapp2.1\PlayingWithArrays.runtimeconfig.json
+C:\Users\Gulam\source\repos\PlayingWithArrays\PlayingWithArrays\bin\Debug\netcoreapp2.1\PlayingWithArrays.runtimeconfig.dev.json
+C:\Users\Gulam\source\repos\PlayingWithArrays\PlayingWithArrays\bin\Debug\netcoreapp2.1\PlayingWithArrays.dll
+C:\Users\Gulam\source\repos\PlayingWithArrays\PlayingWithArrays\bin\Debug\netcoreapp2.1\PlayingWithArrays.pdb
+C:\Users\Gulam\source\repos\PlayingWithArrays\PlayingWithArrays\obj\Debug\netcoreapp2.1\PlayingWithArrays.csprojAssemblyReference.cache
+C:\Users\Gulam\source\repos\PlayingWithArrays\PlayingWithArrays\obj\Debug\netcoreapp2.1\PlayingWithArrays.csproj.CoreCompileInputs.cache
+C:\Users\Gulam\source\repos\PlayingWithArrays\PlayingWithArrays\obj\Debug\netcoreapp2.1\PlayingWithArrays.AssemblyInfoInputs.cache
+C:\Users\Gulam\source\repos\PlayingWithArrays\PlayingWithArrays\obj\Debug\netcoreapp2.1\PlayingWithArrays.AssemblyInfo.cs
+C:\Users\Gulam\source\repos\PlayingWithArrays\PlayingWithArrays\obj\Debug\netcoreapp2.1\PlayingWithArrays.dll
+C:\Users\Gulam\source\repos\PlayingWithArrays\PlayingWithArrays\obj\Debug\netcoreapp2.1\PlayingWithArrays.pdb
